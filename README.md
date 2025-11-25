@@ -52,7 +52,7 @@ The design contains a central analytics graph, user management table, and a left
 
 ---
 
-## 🛠 **Design Tools & Techniques**
+## **Design Tools & Techniques**
 
 * **Adobe XD** (primary design tool)
 * Auto-layout and grid systems
